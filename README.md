@@ -146,6 +146,6 @@ Targets I'm interested in:
 * The browser's `file:///` URI scheme *[link](https://tools.ietf.org/html/rfc8089)*
 * Babel [standalone](https://babeljs.io/docs/en/babel-standalone)
 
-package.json saves all these modules the node way; where in the files you get are the files you downloaded?
+package.json saves all these modules the node way; where in `node_modules` are the files you downloaded?
 
 can't you get each one of these from [UNPKG](https://unpkg.com/) or another recent similar site? how does unpkg deal with a npm module that has a bunch of additional dependencies?
