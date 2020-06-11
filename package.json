@@ -2,10 +2,21 @@
   "name": "modules",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zootella/modules.git"
+  },
+  "dependencies": {
+    "@babel/standalone": "^7.10.2",
+    "highlight.js": "^10.0.3",
+    "jquery": "^3.5.1",
+    "js-yaml": "^3.14.0",
+    "markdown-it": "^11.0.0",
+    "moment": "^2.26.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.3.2"
   }
 }

@@ -1,6 +1,6 @@
 # modules
 
-npm modules to use in a good ol' fashioned `<script>` tag.
+Some npm modules to use in a good ol' fashioned `<script>` tag.
 
 Links found and files downloaded **2020 June 10**
 
@@ -17,8 +17,10 @@ cdn
 * https://code.jquery.com/jquery-3.5.1.min.js
 
 files
-* page_modules/jquery-3.5.1.js
-* page_modules/jquery-3.5.1.min.js
+```
+page_modules/jquery-3.5.1.js
+page_modules/jquery-3.5.1.min.js
+```
 
 ## vue, vue router
 
@@ -42,7 +44,7 @@ page_modules/vue.min.js
 page_modules/vue-router.js
 ```
 
-## react, react dom, babel
+## react, react dom, babel standalone
 
 npm
 * https://www.npmjs.com/package/react
@@ -141,7 +143,7 @@ Targets I'm interested in:
 * node's `require()` *[link](https://nodejs.org/api/modules.html#modules_require_id)*
 * [Electron](https://www.electronjs.org/)
 * [Beaker](https://beakerbrowser.com/)
-* The browser's `file:` URI scheme *[link](https://tools.ietf.org/html/rfc8089)*
+* The browser's `file:///` URI scheme *[link](https://tools.ietf.org/html/rfc8089)*
 * Babel [standalone](https://babeljs.io/docs/en/babel-standalone)
 
 package.json saves all these modules the node way; where in the files you get are the files you downloaded?
