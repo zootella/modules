@@ -5,56 +5,58 @@ Files downloaded 2020 June 10
 ## jquery
 
 npm
-[https://www.npmjs.com/package/jquery](https://www.npmjs.com/package/jquery)
+* https://www.npmjs.com/package/jquery
 
 guide
-[https://jquery.com/download/](https://jquery.com/download/)
+* https://jquery.com/download/
 
 cdn
-https://code.jquery.com/jquery-3.5.1.js
-https://code.jquery.com/jquery-3.5.1.min.js
+* https://code.jquery.com/jquery-3.5.1.js
+* https://code.jquery.com/jquery-3.5.1.min.js
 
 files
-page_modules/jquery-3.5.1.js
-page_modules/jquery-3.5.1.min.js
+* page_modules/jquery-3.5.1.js
+* page_modules/jquery-3.5.1.min.js
 
 ## vue, vue router
 
 npm
-[https://www.npmjs.com/package/vue](https://www.npmjs.com/package/vue)
-[https://www.npmjs.com/package/vue-router](https://www.npmjs.com/package/vue-router)
+* https://www.npmjs.com/package/vue
+* https://www.npmjs.com/package/vue-router
 
 guide
-[https://vuejs.org/v2/guide/installation.html](https://vuejs.org/v2/guide/installation.html)
-[https://router.vuejs.org/installation.html](https://router.vuejs.org/installation.html)
+* https://vuejs.org/v2/guide/installation.html
+* https://router.vuejs.org/installation.html
 
 cdn
-https://vuejs.org/js/vue.js
-https://vuejs.org/js/vue.min.js
-https://unpkg.com/vue-router/dist/vue-router.js
+* https://vuejs.org/js/vue.js
+* https://vuejs.org/js/vue.min.js
+* https://unpkg.com/vue-router/dist/vue-router.js
 
 files
+```
 page_modules/vue.js
 page_modules/vue.min.js
 page_modules/vue-router.js
+```
 
 ## react, react dom, babel
 
 npm
-[https://www.npmjs.com/package/react](https://www.npmjs.com/package/react)
-[https://www.npmjs.com/package/react-dom](https://www.npmjs.com/package/react-dom)
-[https://www.npmjs.com/package/@babel/standalone](https://www.npmjs.com/package/@babel/standalone)
+* https://www.npmjs.com/package/react
+* https://www.npmjs.com/package/react-dom
+* https://www.npmjs.com/package/@babel/standalone
 
 guide
-[https://reactjs.org/docs/cdn-links.html](https://reactjs.org/docs/cdn-links.html)
-[https://reactjs.org/docs/add-react-to-a-website.html](https://reactjs.org/docs/add-react-to-a-website.html)
+* https://reactjs.org/docs/cdn-links.html
+* https://reactjs.org/docs/add-react-to-a-website.html
 
 cdn
-https://unpkg.com/babel-standalone@6/babel.min.js
-https://unpkg.com/react@16/umd/react.development.js
-https://unpkg.com/react@16/umd/react.production.min.js
-https://unpkg.com/react-dom@16/umd/react-dom.development.js
-https://unpkg.com/react-dom@16/umd/react-dom.production.min.js
+* https://unpkg.com/babel-standalone@6/babel.min.js
+* https://unpkg.com/react@16/umd/react.development.js
+* https://unpkg.com/react@16/umd/react.production.min.js
+* https://unpkg.com/react-dom@16/umd/react-dom.development.js
+* https://unpkg.com/react-dom@16/umd/react-dom.production.min.js
 
 files
 page_modules/babel.min.js
@@ -66,10 +68,10 @@ page_modules/react-dom.production.min.js
 ## js-yaml
 
 npm
-[https://www.npmjs.com/package/js-yaml](https://www.npmjs.com/package/js-yaml)
+https://www.npmjs.com/package/js-yaml
 
 guide
-[http://nodeca.github.io/js-yaml/]
+http://nodeca.github.io/js-yaml/
 
 github zip
 https://github.com/nodeca/js-yaml/releases
