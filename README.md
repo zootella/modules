@@ -1,6 +1,8 @@
 # modules
 
-Files downloaded 2020 June 10
+npm modules to use in a good ol' fashioned `<script>` tag.
+
+Links found and files downloaded **2020 June 10**
 
 ## jquery
 
@@ -59,110 +61,77 @@ cdn
 * https://unpkg.com/react-dom@16/umd/react-dom.production.min.js
 
 files
+```
 page_modules/babel.min.js
 page_modules/react.development.js
 page_modules/react.production.min.js
 page_modules/react-dom.development.js
 page_modules/react-dom.production.min.js
+```
 
 ## js-yaml
 
 npm
-https://www.npmjs.com/package/js-yaml
+* https://www.npmjs.com/package/js-yaml
 
 guide
-http://nodeca.github.io/js-yaml/
+* http://nodeca.github.io/js-yaml/
 
 github zip
-https://github.com/nodeca/js-yaml/releases
-https://github.com/nodeca/js-yaml/archive/3.14.0.zip
-js-yaml-3.14.0.zip/dist/js-yaml.js
-js-yaml-3.14.0.zip/dist/js-yaml.min.js
+* https://github.com/nodeca/js-yaml/releases
+* https://github.com/nodeca/js-yaml/archive/3.14.0.zip
+* js-yaml-3.14.0.zip/dist/js-yaml.js
+* js-yaml-3.14.0.zip/dist/js-yaml.min.js
 
 files
+```
 page_modules/js-yaml.js
 page_modules/js-yaml.min.js
+```
 
 ## markdown-it, highlight.js
 
 npm
-https://www.npmjs.com/package/markdown-it
-https://www.npmjs.com/package/highlight.js
+* https://www.npmjs.com/package/markdown-it
+* https://www.npmjs.com/package/highlight.js
 
 guide
-https://markdown-it.github.io/
-https://github.com/markdown-it/markdown-it#install
-https://cdnjs.com/libraries/markdown-it
-https://highlightjs.org/download/
+* https://markdown-it.github.io/
+* https://github.com/markdown-it/markdown-it#install
+* https://cdnjs.com/libraries/markdown-it
+* https://highlightjs.org/download/
 
 cdn
-https://cdnjs.cloudflare.com/ajax/libs/markdown-it/11.0.0/markdown-it.js
-https://cdnjs.cloudflare.com/ajax/libs/markdown-it/11.0.0/markdown-it.min.js
-https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.0.3/build/highlight.min.js
-https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.0.3/build/styles/default.min.css
+* https://cdnjs.cloudflare.com/ajax/libs/markdown-it/11.0.0/markdown-it.js
+* https://cdnjs.cloudflare.com/ajax/libs/markdown-it/11.0.0/markdown-it.min.js
+* https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.0.3/build/highlight.min.js
+* https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.0.3/build/styles/default.min.css
 
 files
+```
 page_modules/markdown-it.js
 page_modules/markdown-it.min.js
 page_modules/highlight.min.js
 page_modules/highlight.min.css (renamed from default.min.css)
+```
 
 ## moment
 
 npm
-https://www.npmjs.com/package/moment
+* https://www.npmjs.com/package/moment
 
 guide
-https://momentjs.com/
+* https://momentjs.com/
 
 cdn
-https://momentjs.com/downloads/moment.js
-https://momentjs.com/downloads/moment.min.js
+* https://momentjs.com/downloads/moment.js
+* https://momentjs.com/downloads/moment.min.js
 
 files
+```
 page_modules/moment.js
 page_modules/moment.min.js
-
-
-
-
-
-
-
-
-
-additional things to try:
-make a node project that saves all these things, see what you get from npm
-try to download everythign from unpkg links, see what you get there
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 
 ## Notes
 
