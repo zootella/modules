@@ -153,6 +153,21 @@ files
 page_modules/collections.min.js
 ```
 
+## smartquotes - 2020dec12
+
+npm
+* https://www.npmjs.com/package/smartquotes
+
+guide
+* https://smartquotes.js.org/
+* https://github.com/kellym/smartquotes.js
+
+files
+```
+page_modules/smartquotes.js
+page_modules/smartquotes.js.map
+```
+
 ## Notes
 
 Targets I'm interested in:
